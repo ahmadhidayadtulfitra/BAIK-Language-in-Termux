@@ -1,6 +1,6 @@
 # BAIK-Language-in-Termux
 # installing 
-$ apt update && apt upgrade \n
+$ apt update && apt upgrade /n
 $ pkg install clang \n
 $ pkg install libgd \n
 $ pkg install libsqlite \n
