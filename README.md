@@ -19,3 +19,11 @@ $ termux-chroot
 $ git clone https://github.com/ahmadhidayadtulfitra/BAIK-Language-in-Termux
 
 # configure
+
+$ chmod +x compile-simple.sh
+
+$ ./compile-simple.sh
+
+# how to execute file .ina
+
+$ ./your file.ina
