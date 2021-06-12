@@ -14,6 +14,6 @@ $ termux-setup-storage
 
 $ termux-chroot
 
-$ git clone 
+$ git clone https://github.com/ahmadhidayadtulfitra/BAIK-Language-in-Termux
 
 # configure
