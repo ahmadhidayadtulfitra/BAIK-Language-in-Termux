@@ -14,4 +14,6 @@ $ termux-setup-storage
 
 $ termux-chroot
 
+$ git clone 
+
 # configure
