@@ -2,6 +2,8 @@
 # installing 
 $ apt update && apt upgrade
 
+$ pkg install git
+
 $ pkg install clang
 
 $ pkg install libgd 
